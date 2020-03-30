@@ -1,5 +1,5 @@
 
-# [COVID-19-Padchest-dataset]
+# COVID-19-Padchest-dataset
 ## Note: please do not claim diagnostic performance of a model without a clinical study. This is basically for research purpose.
 
 Combination of data from the PadChest dataset with datasets based on COVID-19 pathology to provide the open scientific community with data of clinical-scientific value that helps early detection of COVID-19.
