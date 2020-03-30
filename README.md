@@ -1,8 +1,8 @@
 
-# COVID-19-Padchest-dataset
+# COVID-19-Dataset
 ## Note: please do not claim diagnostic performance of a model without a clinical study. This is basically for research purpose.
 
-Combination of data from the PadChest dataset with datasets based on COVID-19 pathology to provide the open scientific community with data of clinical-scientific value that helps early detection of COVID-19.
+Combination of data from the PadChest dataset and with other datasets based on COVID-19 pathology to provide the open scientific community with data of clinical-scientific value that helps early detection of COVID-19.
 
 
 Collection of chest X-ray images data that will be used to training Deep Learning (DL) models. Such training is meant to obtain an early detection of infection and pneumonia by Covid from a simple chest X-ray. 
